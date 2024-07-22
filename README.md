@@ -60,6 +60,6 @@ To train your own emotion detection model, refer to the notebook at `/src/Emotio
 
 <div align="center">
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/meetings-endless-productivity-zero.svg)
+![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)
 </div>
