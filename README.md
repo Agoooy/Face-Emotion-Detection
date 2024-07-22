@@ -43,7 +43,7 @@ To train your own emotion detection model, refer to the notebook at `/src/Emotio
 
 ## Connect with me
 
-  You can reach me through My Gmail, LinkedIn, X, or Instagram account
+  You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
  href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
@@ -51,9 +51,6 @@ To train your own emotion detection model, refer to the notebook at `/src/Emotio
 </a>
 <a href="https://www.linkedin.com/in/agooy/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-</a>
-<a href="https://x.com/mamahakutakut">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30" alt="X logo" />
 </a>
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
@@ -63,6 +60,6 @@ To train your own emotion detection model, refer to the notebook at `/src/Emotio
 
 <div align="center">
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-love__.svg)
-![forthebadge](https://forthebadge.com/images/badges/meetings_-endless-productivity_-zero.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/meetings-endless-productivity-zero.svg)
 </div>
