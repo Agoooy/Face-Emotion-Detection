@@ -2,7 +2,7 @@
 <h1>Face Emotion Detection</h2>
 </p>
 
-The Face Emotion Detection project is an advanced system designed to detect and recognize various human facial expressions with high accuracy. This system can identify emotions such as anger, happiness, sadness, surprise, and others through real-time facial expressions analysis. By utilizing cutting-edge machine learning and image processing technology, Face Emotion Detection can be applied in various fields, including security, human-computer interaction, and market analysis.
+The **Face Emotion Detection** project is an advanced system designed to detect and recognize various human facial expressions with high accuracy. This system can identify emotions such as anger, happiness, sadness, surprise, and others through real-time facial expressions analysis. By utilizing cutting-edge machine learning and image processing technology, **Face Emotion Detection** can be applied in various fields, including security, human-computer interaction, and market analysis.
 
 ---
 
