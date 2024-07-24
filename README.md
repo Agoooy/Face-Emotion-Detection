@@ -29,12 +29,12 @@ If you are having trouble with the installation, you can also try out a [pre-con
 ---
 
 ### Usage:
-#### Complete pipeline for Face Detection, Face Recognition and Emotion Detection
+- #### Complete pipeline for Face Detection, Face Recognition and Emotion Detection
 Refer to the notebook at `/src/facial_detection_recog_emotion.ipynb`.
 
 We have trained an emotion detection model, and the trained weights are located at `/emotion_detector_models`.
 
-#### Train your Emotion Detection Model
+- #### Train your Emotion Detection Model
 To train your own emotion detection model, refer to the notebook at `/src/EmotionDetector_v2.ipynb`.
 
 ---
