@@ -5,14 +5,12 @@
 The **Face Emotion Detection** project is an advanced system designed to detect and recognize various human facial expressions with high accuracy. This system can identify emotions such as anger, happiness, sadness, surprise, and others through real-time facial expressions analysis. By utilizing cutting-edge machine learning and image processing technology, **Face Emotion Detection** can be applied in various fields, including security, human-computer interaction, and market analysis.
 
 ---
-
 ### Requirements
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ### Installing on Mac or Linux
 First, make sure you have dlib installed with Python bindings:
 
@@ -31,12 +29,12 @@ If you are having trouble with the installation, you can also try out a [pre-con
 ---
 
 ### Usage:
-### Complete pipeline for Face Detection, Face Recognition and Emotion Detection
+#### Complete pipeline for Face Detection, Face Recognition and Emotion Detection
 Refer to the notebook at `/src/facial_detection_recog_emotion.ipynb`.
 
 We have trained an emotion detection model, and the trained weights are located at `/emotion_detector_models`.
 
-### Train your Emotion Detection Model
+#### Train your Emotion Detection Model
 To train your own emotion detection model, refer to the notebook at `/src/EmotionDetector_v2.ipynb`.
 
 ---
