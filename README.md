@@ -40,9 +40,7 @@ We have trained an emotion detection model, and the trained weights are located 
 To train your own emotion detection model, refer to the notebook at `/src/EmotionDetector_v2.ipynb`.
 
 ---
-
-## Connect with me
-
+### Connect with me
   You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
