@@ -57,7 +57,6 @@ To train your own emotion detection model, refer to the notebook at `/src/Emotio
 </a>
 
 ---
-
 <div align="center">
 
 ![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
